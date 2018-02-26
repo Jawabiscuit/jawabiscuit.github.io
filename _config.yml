@@ -1,2 +1,4 @@
-name: jonasavrin
+name: jawabiscuit
 markdown: markdown
+
+permalink: /blog/:year/:month/:day/:title
